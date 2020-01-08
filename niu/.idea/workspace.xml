@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8627438e-9f21-4e82-9905-e2daf656a922" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaWeb_Demo/JavaWeb_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb_Demo2/JavaWeb_Demo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/Maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../asdf/.idea/asdf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-login/src/main/java/com/example/demologin/quartz/MyJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-login/src/main/java/com/example/demologin/quartz/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-redis/src/main/java/com/example/demoredis/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-redis/src/main/java/com/example/demoredis/utils/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-redis/src/main/java/com/example/demoredis/utils/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/entity/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/utils/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/utils/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/utils/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo1/utils/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/resources/mappers/StudnetMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dingshiqi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dingshiqi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dingshiqi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea-work/.idea/idea-work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea-work/idea-work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-web1/java-web1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javamaven/javamaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qian/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wwwww/wwwww.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zjjjj/zjjjj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zzz/zzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zzzzzz/zzzzzz.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W67bJYuA8hDHbzwkyNC3uELNzZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../knowledge-base" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\niu\src\main\resources\templates" />
+      <recent name="D:\idea\niu\src\main\java\cn\bd10\niu\util" />
+      <recent name="D:\idea\niu\src\main\java\cn\bd10\niu\service" />
+      <recent name="D:\idea\niu\src\main\java\cn\bd10\niu\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NiuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="niu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bd10.niu.NiuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8627438e-9f21-4e82-9905-e2daf656a922" name="Default Changelist" comment="" />
+      <created>1578458260765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578458260765</updated>
+      <workItem from="1578458268218" duration="7959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="684" y="126" key="CommitChangelistDialog2" timestamp="1578471181494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="126" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181494" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1578465954465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578465954465" />
+    <state width="1144" height="166" key="GridCell.Tab.0.bottom" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state width="1144" height="166" key="GridCell.Tab.0.center" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state width="1144" height="166" key="GridCell.Tab.0.left" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state width="1144" height="166" key="GridCell.Tab.0.right" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state width="1144" height="166" key="GridCell.Tab.1.bottom" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state width="1144" height="166" key="GridCell.Tab.1.center" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state width="1144" height="166" key="GridCell.Tab.1.left" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state width="1144" height="166" key="GridCell.Tab.1.right" timestamp="1578471181513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1144" height="166" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578471181513" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1578463876185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578463876185" />
+  </component>
+</project>
