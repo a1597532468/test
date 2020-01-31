@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+</head>
+<body>
+
+</body>
+<script>
+    $.ajax({
+        type:"post",
+        url:"http://localhost:8888/init",
+        dataType:"json",
+        success:function (data) {
+            console.log(data)
+        }
+    })
+</script>
+</html>

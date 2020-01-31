@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.hd.knowledgebase.dao.ManagerDao">
+
+    <select id="getAllManagers" resultMap="manager">
+        select mid,mname,mobile,create_time from manager
+        where status = 1
+    </select>
+
+    <select id="getManager" resultMap="manager">
+        select mid,mname,mobile,create_time from manager
+        <where>
+            <if test="mid != null and mid != '' ">
+                mid = #{mid}
+            </if>
+            <if test="mname != null and mname != '' ">
+                mname = #{mname}
+            </if>
+            <if test="mobile != null and mobile != '' ">
+                mobile = #{mobile}
+            </if>
+        </where>
+    </select>
+
+    <insert id="addManager" parameterType="cn.hd.knowledgebase.entity.Manager">
+        insert into manager (mname,mobile,create_time,update_time)
+        values (#{manager.mname},#{manager.mobile},NOW(),NOW())
+    </insert>
+
+    <delete id="deleteManager">
+        update manager set status = 2
+        where mid=#{mid}
+    </delete>
+
+    <update id="updateManager">
+        update manager set mname = #{mname}, mobile=#{mobile}, update_time=NOW()
+        <if test="password != null and password != ''">
+            ,password=#{password}
+        </if>
+        where mid=#{mid}
+    </update>
+
+    <resultMap id="manager" type="cn.hd.knowledgebase.entity.Manager">
+        <id property="mid" column="mid"/>
+        <result property="mname" column="mname"/>
+        <result property="mobile" column="mobile"/>
+        <result property="password" column="password"/>
+        <result property="createTime" column="create_time"/>
+        <result property="updateTime" column="update_time"/>
+        <result property="status" column="status"/>
+    </resultMap>
+</mapper>

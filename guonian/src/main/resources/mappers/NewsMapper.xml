@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mint.dao.NewsDao">
+<select id="showNews" resultMap="ad">
+    select * from nd_news where news_type=#{type}
+</select>
+
+    <resultMap type="com.example.mint.model.entity.News" id="ad">
+        <id property="id" column="news_id"/>
+        <result property="type" column="news_type"/>
+        <result property="title" column="news_title"/>
+        <result property="content" column="news_content"/>
+        <result property="owner" column="news_owner"/>
+        <result property="createdTime" column="news_createdTime"/>
+        <result property="verifiedTime" column="news_verifiedTime"/>
+        <result property="updatedTime" column="news_updatedTime"/>
+        <result property="level" column="news_level"/>
+        <result property="index" column="news_index"/>
+        <result property="status" column="news_status"/>
+
+    </resultMap>
+    <update id="updateNews">
+        update nd_news set  news_status=#{status} where news_id=#{id}
+
+    </update>
+
+</mapper>

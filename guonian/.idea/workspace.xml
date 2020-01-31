@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="ba73305e-1cce-446f-ba93-68df575fd174" name="Default Changelist" comment="张江江上传项目内容">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/admin.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/component.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/reset.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/cile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/pwd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/timg (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/timg (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/timg (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/timg (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/timg (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/imgs/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/JQuery2.1.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/vue.2.6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/wang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/laydate/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/laydate/theme/default/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/laydate/theme/default/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/laydate/theme/default/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/laydate/theme/default/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/laydate/theme/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/mobile/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/mobile/need/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plugins/layer/theme/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/article_create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/article_show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/column_create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/column_show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/gg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user_show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/web_logs.html" beforeDir="false" />
+    </list>
+=======
+    <list default="true" id="ba73305e-1cce-446f-ba93-68df575fd174" name="Default Changelist" comment="牛岩松上传项目结构" />
+>>>>>>> origin/master
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="mabits" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ruanjian\maven\repository" />
+        <option name="mavenHome" value="D:/ruanjian/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ruanjian\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WPbIctVnYRa6K7HJe8MIELWqer" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xuzhiwen" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/mint/model/entity" />
+>>>>>>> origin/master
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\guonian\src\main\resources\templates" />
+      <recent name="D:\idea\guonian\src\main\resources\static" />
+      <recent name="D:\idea\guonian\src\main\resources\mappers" />
+      <recent name="D:\idea\guonian\src\main\resources\static\js" />
+      <recent name="D:\idea\guonian\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MintApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mint" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mint.MintApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba73305e-1cce-446f-ba93-68df575fd174" name="Default Changelist" comment="" />
+      <created>1579054098599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579054098599</updated>
+      <workItem from="1579054102934" duration="717000" />
+      <workItem from="1579137813215" duration="2425000" />
+<<<<<<< HEAD
+      <workItem from="1579140494400" duration="11051000" />
+      <workItem from="1579404811575" duration="2169000" />
+      <workItem from="1579411665433" duration="6469000" />
+      <workItem from="1579479404278" duration="5267000" />
+      <workItem from="1579568374290" duration="6325000" />
+      <workItem from="1579655902058" duration="7121000" />
+      <workItem from="1579742898642" duration="4004000" />
+      <workItem from="1579830695292" duration="1249000" />
+      <workItem from="1580262918263" duration="6433000" />
+      <workItem from="1580451552580" duration="994000" />
+    </task>
+    <task id="LOCAL-00001" summary="张江江上传管理员实体类">
+      <created>1579141170656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579141170656</updated>
+    </task>
+    <task id="LOCAL-00002" summary="张江江上传项目内容">
+      <created>1580451990135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580451990135</updated>
+=======
+      <workItem from="1579140494400" duration="569000" />
+      <workItem from="1579142806250" duration="54000" />
+>>>>>>> origin/master
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="牛岩松上传项目结构" />
+    <MESSAGE value="张江江上传管理员实体类" />
+    <MESSAGE value="张江江上传页面" />
+    <MESSAGE value="张江江上传项目内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="张江江上传项目内容" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579420493893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579420493893" />
+    <state x="758" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1579744733007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="258" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1579139321272" />
+    <state x="758" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579744733007" />
+    <state x="1285" y="468" width="432" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579482211233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1285" y="468" width="432" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1579482211233" />
+    <state x="981" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580452359202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="981" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580452359202" />
+    <state x="414" y="119" key="CommitChangelistDialog2" timestamp="1580452515556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="401" y="124" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1579054682185" />
+<<<<<<< HEAD
+    <state x="414" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580452515556" />
+    <state x="733" y="273" key="FileChooserDialogImpl" timestamp="1580451867404">
+      <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state x="586" y="216" key="FileChooserDialogImpl" timestamp="1579142856106">
+      <screen x="0" y="0" width="1536" height="824" />
+>>>>>>> origin/master
+    </state>
+    <state x="586" y="216" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579142856106" />
+    <state x="709" y="283" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1579139391567" />
+    <state x="733" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580451867404" />
+    <state x="754" y="453" width="373" height="174" key="Github.CreateGistDialog" timestamp="1579054474440">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="754" y="453" width="373" height="174" key="Github.CreateGistDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1579054474440" />
+<<<<<<< HEAD
+    <state width="1877" height="117" key="GridCell.Tab.0.bottom" timestamp="1580316529569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="117" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580316529569" />
+    <state width="1877" height="117" key="GridCell.Tab.0.center" timestamp="1580316529569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="117" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580316529569" />
+    <state width="1877" height="117" key="GridCell.Tab.0.left" timestamp="1580316529569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="117" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580316529569" />
+    <state width="1877" height="117" key="GridCell.Tab.0.right" timestamp="1580316529569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="117" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580316529569" />
+    <state width="1877" height="590" key="GridCell.Tab.1.bottom" timestamp="1579749732530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="590" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579749732530" />
+    <state width="1877" height="590" key="GridCell.Tab.1.center" timestamp="1579749732530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="590" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579749732530" />
+    <state width="1877" height="590" key="GridCell.Tab.1.left" timestamp="1579749732530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="590" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579749732530" />
+    <state width="1877" height="590" key="GridCell.Tab.1.right" timestamp="1579749732530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="590" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579749732530" />
+    <state x="754" y="223" key="SettingsEditor" timestamp="1579570196049">
+      <screen x="0" y="0" width="1920" height="1040" />
+=======
+    <state x="492" y="115" key="SettingsEditor" timestamp="1579142859470">
+      <screen x="0" y="0" width="1536" height="824" />
+>>>>>>> origin/master
+    </state>
+    <state x="492" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579142859470" />
+    <state x="595" y="181" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1579054579403" />
+    <state x="754" y="223" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579570196049" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580452231883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580452231883" />
+    <state x="262" y="278" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1579569934955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="262" y="278" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579569934955" />
+    <state x="674" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1579744689561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579744689561" />
+  </component>
+</project>

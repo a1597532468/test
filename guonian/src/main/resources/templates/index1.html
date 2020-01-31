@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>aaa</title>
+
+</head>
+
+
+<body>
+<table border="1">
+    <tr>
+        <th>id</th>
+        <th>name</th>
+    </tr>
+    <tr th:each="a:${list}">
+        <td th:text="${a.id}"></td>
+        <td th:text="${a.title}"></td>
+
+    </tr>
+</table>
+</body>
+
+</html>

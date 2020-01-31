@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mint.dao.AdminDao">
+<select id="loginAdmin" resultMap="ad">
+    select * from nd_admins where admin_name=#{adminName} and admin_phone=#{adminPhone}
+</select>
+
+    <resultMap type="com.example.mint.model.entity.Admin" id="ad">
+        <id property="adminId" column="admin_id"/>
+        <result property="adminName" column="admin_name"/>
+        <result property="adminPhone" column="admin_phone"/>
+        <result property="adminType" column="admin_type"/>
+        <result property="adminStatus" column="admin_status"/>
+
+    </resultMap>
+
+</mapper>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mint.dao.XiangMuDao">
+ <insert id="addx">
+        insert into nd_programs (program_id,program_title,program_content,program_comment,program_status) values(null,#{title},#{content},#{comment},#{status})
+    </insert>
+<select id="list" resultMap="xm">
+    select * from nd_programs
+    <where>
+        <if test="id != null and id != 0">
+            and program_id=#{id}
+        </if>
+        <if test='title != null and title !="0"'>
+            and program_title like CONCAT('%',#{title},'%');
+        </if>
+    </where>
+
+
+</select>
+    <resultMap type="com.example.mint.model.entity.XiangMu" id="xm">
+        <id property="id" column="program_id"/>
+        <result property="title" column="program_title"/>
+        <result property="content" column="program_content"/>
+        <result property="comment" column="program_comment"/>
+        <result property="status" column="program_status"/>
+
+    </resultMap>
+
+    <delete id="shanx">
+        delete from nd_programs where program_id=#{id}
+    </delete>
+    <update id="xiux" >
+        update nd_programs set  program_title=#{title} , program_content=#{content}, program_comment=#{comment} , program_status=#{status}  where program_id=#{id}
+    </update>
+
+</mapper>
